@@ -1,6 +1,6 @@
 {
-  "dataset_path": "C:\\Users\\EliranChoen\\PycharmProjects\\trips-analizing\\DataSet\\dataset.csv",
-  "results_path": "C:\\Users\\EliranChoen\\PycharmProjects\\trips-analizing\\Results",
+  "dataset_path": "DataSet\\dataset.csv",
+  "results_path": "Results",
   "ignored_columns": [
     0,
     1,
