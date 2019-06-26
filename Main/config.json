@@ -1,0 +1,20 @@
+{
+  "dataset_path": "C:\\Users\\EliranChoen\\PycharmProjects\\trips-analizing\\DataSet\\dataset.csv",
+  "results_path": "C:\\Users\\EliranChoen\\PycharmProjects\\trips-analizing\\Results",
+  "ignored_columns": [
+    0,
+    1,
+    2,
+    3,
+    6,
+    7
+  ],
+  "test_columns": 4,
+  "uid_column": 3,
+  "methods": [
+    "rf",
+    "DecisionTree",
+    "svc",
+    "lr"
+  ]
+}
